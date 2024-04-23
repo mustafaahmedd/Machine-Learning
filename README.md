@@ -1,6 +1,5 @@
 # Machine-Learning
-created this repo for uploading Ml Algorithms 
-Like 
+created this repo for uploading ML Algorithms Like 
 K-Means 
 KNN
 K-Nearest
@@ -9,7 +8,7 @@ Multiple Linear Regression
 CART Algorithmm
 questions are solved in reverse direction.
 -------------------------------------------------------
-Question 3
+## Question 3
 You are given a dataset of customers' annual income and their spending scores in a mall. Your goal is
 to perform k-means clustering to segment customers based on their income and spending behavior.
 You have the following data:
